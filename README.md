@@ -11,7 +11,7 @@ I am an undergraduate physics student fascinated by the intersection of physical
 *   **Mathematics:** Continuously sharpening my core mathematical and Linear Algebra foundations.
 
 ### 🎬 Projects & Hobbies
-*   **🎥 Research Made Easy:** I run a platform dedicated to translating complex, heavy physics research papers into approachable, storytelling-based content. 
+*   **🎥 Research Made Easy:** I run a youtube channel dedicated to translating complex, heavy physics research papers into approachable, storytelling-based content. 
 *   **🐛 Bug Hunting & QA:** I moonlight as a software QA competitor, breaking and testing codebases to find critical vulnerabilities.
 
 ---
