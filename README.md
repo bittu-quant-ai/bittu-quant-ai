@@ -8,7 +8,8 @@ Hi there, I'm Bittu Kumar 👋
 ​Artificial Intelligence & Machine Learning: Building machine learning models and exploring specialized architectures like Physics-Informed Neural Networks (PINNs).
 ​Software Development & QA: Leveraging Python for automation, data pipelines, and rigorous software bug tracking and testing.
 
-​🎬 Projects & Content Creation
+​🎬 Projects & Content Creation:
+
 ​🎥 Research Made Easy: Running a YouTube channel dedicated to translating complex physics research papers into approachable, storytelling-based content.
 ​📱 UnderGraduate Physics: Managing an educational Instagram page focused on regional university curricula and study resources.
 ​💻 Anomalous: Building a custom Python expense tracking and behavioral anomaly detection program.
